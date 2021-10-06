@@ -1,3 +1,5 @@
 # stock-news-app
 
-This project is build with Python.
+This project is built with Python. Stock News Monitoring Project.
+
+
